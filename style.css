@@ -1,0 +1,36 @@
+.box-1{
+    
+    width: 1200;
+    height: 1200;
+    background-color: bisque;
+}
+.box-2{
+
+    width: 505px;
+    height: 290px;
+    background-color: blue;
+    margin-left: 900px;
+
+}
+.box-3{
+   
+    width: 500px;
+    height: 500px;
+    background-color: rgb(196, 210, 255);
+     
+}
+.image{
+    width: 300px;
+    height: 300px;
+    
+}
+.image{
+    
+    
+    width: 300px;
+    height: 300px;
+
+}
+.dropdown-2{
+    margin-top: 400;
+}
